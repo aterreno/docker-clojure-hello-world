@@ -1,7 +1,8 @@
 docker-clojure-hello-world
 ==========================
 
-FIXME
+Clojure Hello World Running inside a docker container powered by ubuntu 12.04. 
+Process kept alive by supervisord.
 
 ## Prerequisites
 
