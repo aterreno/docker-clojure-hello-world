@@ -17,5 +17,4 @@ ADD cloj.jar /opt/cloj.jar
 ADD start.sh /opt/start.sh
 RUN chmod +x /opt/start.sh
 
-EXPOSE 3030 22
 CMD ["/usr/bin/supervisord"]
